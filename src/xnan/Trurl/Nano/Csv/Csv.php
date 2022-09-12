@@ -3,8 +3,6 @@
 namespace xnan\Trurl\Nano\Csv;
 use xnan\Trurl;
 
-Trurl\Functions::Load;
-
 class Csv {
 
 	function csvToArray($csvFileName,$lastLineOnly=false) {

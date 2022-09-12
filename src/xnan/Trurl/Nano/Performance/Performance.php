@@ -13,8 +13,6 @@ Nano\Functions::Load;
 
 //Uses: End
 
-Trurl\Functions::Load;
-
 class Performance {
 	var $lastMicrotimes=array();	
 	var $costSums=array();

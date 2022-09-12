@@ -8,7 +8,6 @@ use xnan\Trurl;
 use xnan\Trurl\Nano;
 use xnan\Trurl\Nano\Log;
 use xnan\Trurl\Nano\Lock;
-Trurl\Functions::Load;
 Log\Functions::Load;
 
 //Uses: End

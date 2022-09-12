@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hydra\\": "src/"
+            "Nano\\": "xnan/nano/src/xnan/Trurl/Nano/"
         }
     },
     "autoload-dev": {
